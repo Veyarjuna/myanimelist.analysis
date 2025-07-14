@@ -1,0 +1,10 @@
+image/*
+
+dataset/data
+dataset/data-add
+dataset/data-image
+dataset/data-main
+dataset/*.json
+
+# except main data
+!dataset/data.json
