@@ -1,0 +1,24 @@
+# Scraping Result
+- **id**: Unique Id
+- **mal_id**: Anime Id
+- **title**: Title of the anime.
+- **image_url**: Poster Anime on MAL
+- **synopsis**: Description Anime.
+- **aired**: Original airing dates.
+- **premiered**: Season and year of premiere.
+- **member**: Number of user saved the Anime.
+- **favorite**: Number of user favorite the Anime
+- **source**: Average rating given by MyAnimeList users.
+- **rank**: Ranking on MyAnimeList.
+- **link**: Link Source original detail anime.
+- **episode**: Number of episodes.
+- **type**: Classification of anime.
+- **genre**: Categories describing the show.
+- **producer**: Companies involved in production.
+- **studio**: Studios that animated the series.
+- **theme**: The big theme taken by the anime
+- **demographic**: Audience Demographics.
+- **duration**: Length of each episode.
+- **rating**: Audience suitability rating.
+- **score**: Average rating given by MyAnimeList users.
+- **user_score**: Number of user voted for Anime
